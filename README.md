@@ -1,16 +1,18 @@
-# currency
+# Convert Currency App
 
-A new Flutter project.
+Currency Converter app using REST Api 
 
-## Getting Started
+## UI Screenshot
 
-This project is a starting point for a Flutter application.
+![](screenshots/Screenshot_1.jpg), ![](screenshots/Screenshot_2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Packages & API's
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+intl: ^0.17.0[Click Here](https://pub.dev/packages/intl)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+http: ^0.13.5[Click Here](https://pub.dev/packages/http)
+
+Used API: [Click Here](https://currencybeacon.com/)
+
+
+
